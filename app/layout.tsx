@@ -4,10 +4,10 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'The Plugski Smokeshop',
-  description: 'Premium vapes, glass, wraps & accessories. Order via Telegram.',
+  description: 'Fresh 21+ smoke shop drops with a live catalog and direct order flow.',
   openGraph: {
     title: 'The Plugski Smokeshop',
-    description: 'Premium smoke shop products. Order directly via Telegram.',
+    description: 'Fresh smoke shop drops, posted clean.',
     type: 'website',
   },
 }

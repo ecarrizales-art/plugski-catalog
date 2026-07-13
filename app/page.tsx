@@ -40,6 +40,17 @@ export default async function HomePage() {
       <main>
         <Hero />
         <CatalogSection products={products} categories={categories} />
+        <section className="order-strip" id="order">
+          <div>
+            <p className="eyebrow">How to order</p>
+            <h2>Add it up, send it in.</h2>
+          </div>
+          <ol>
+            <li>Choose products from the menu.</li>
+            <li>Send the cart with your contact details.</li>
+            <li>Stock and delivery are confirmed before payment.</li>
+          </ol>
+        </section>
       </main>
       <Footer />
     </>
